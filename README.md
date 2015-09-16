@@ -8,7 +8,7 @@
 
 ## 插件列表
 
-### sketch-measure
+### [sketch-measure](https://github.com/utom/sketch-measure)
 
 A measure tool for measurements & design specs.
 
