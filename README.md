@@ -17,3 +17,14 @@ A measure tool for measurements & design specs.
 ```shell
 curl -L https://raw.githubusercontent.com/noyobo/sketch-plugins/master/measure.sh | sh
 ```
+
+
+### [Sketch-Mate](https://github.com/getflourish/sketch-mate)
+
+These plugins will make you best friends with Sketch.
+
+**安装方法**
+
+```shell
+curl -L https://raw.githubusercontent.com/noyobo/sketch-plugins/master/sketch-mate.sh | sh
+```
